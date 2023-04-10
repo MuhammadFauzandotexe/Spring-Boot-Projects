@@ -1,0 +1,5 @@
+package org.ojan.catalog.domain;
+
+public class Book {
+
+}
