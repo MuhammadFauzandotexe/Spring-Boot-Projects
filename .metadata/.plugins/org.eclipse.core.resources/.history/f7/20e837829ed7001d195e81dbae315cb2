@@ -1,5 +1,0 @@
-package org.ojan.catalog.service.impl;
-
-public class GreetingServiceImpl {
-
-}

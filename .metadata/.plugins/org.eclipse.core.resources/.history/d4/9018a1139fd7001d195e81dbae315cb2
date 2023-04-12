@@ -1,5 +1,0 @@
-package org.ojan.catalog.service;
-
-public interface GreetingService {
-	public static final String sayGreeting = "";
-}

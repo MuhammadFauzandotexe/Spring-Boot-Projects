@@ -1,8 +1,0 @@
-package org.ojan.catalog.domain;
-
-import lombok.Data;
-
-@Data
-public class Book {
-
-}

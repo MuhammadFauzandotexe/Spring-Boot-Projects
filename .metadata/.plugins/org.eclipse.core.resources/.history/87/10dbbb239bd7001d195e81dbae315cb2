@@ -1,8 +1,0 @@
-package org.ojan.catalog.web;
-
-import org.springframework.web.bind.annotation.RequestMapping;
-
-@
-public class Hello {
-
-}
